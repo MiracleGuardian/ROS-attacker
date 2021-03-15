@@ -1,0 +1,1 @@
+rosrun my_pkg my_pkg_node _blue:=text
